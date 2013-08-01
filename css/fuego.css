@@ -1,0 +1,75 @@
+body {
+	padding: 0;
+}
+
+h4 {
+	font-size: 0.8em;
+	font-weight: bold;
+}
+
+#fuegocontent {
+	margin-top: 62px;
+}
+
+.masonitem {
+
+	padding: 10px;
+}
+
+.masonitemcontent {
+	border: 1px solid #CCC;
+	border-radius: 5px;
+	padding: 5px;
+}
+
+.masonitem a {
+	color: #000;
+}
+
+.masonitem img {
+	width: 100%;
+}
+
+.provider {
+	font-weight: bold;
+	color: #555;
+}
+
+.tweetpic {
+	float: right;
+	margin-left: 5px;
+}
+
+.tweetdetails {
+	margin-top: 10px;
+	padding: 5px 10px 0px 10px;
+	border-top: 2px solid #d2002a;
+	font-size: 0.8em;
+	font-weight: normal;
+}
+
+.twitteraccount {
+	font-weight: bold;
+}
+
+.twitteraccount a {
+	color: #ccc;
+}
+
+.postmeta {
+	padding: 5px 10px 5px 10px;
+}
+
+footer {
+	position: absolute;
+	bottom: 0px;
+	padding: 10px;
+}
+
+#footer {
+	margin-bottom: 0;
+}
+
+.activeSelected {
+	font-weight: bold;
+}
